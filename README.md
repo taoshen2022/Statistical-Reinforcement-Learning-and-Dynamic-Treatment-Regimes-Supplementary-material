@@ -2,7 +2,7 @@
 
 ### Overview
 
-This repository provides code for book chapter 'Statistical reinforcement learning and dynamic treatment regimes'. This material is aimed at providing primary tools for leaners who are not familiar with model-based approaches, offline RL methods we have mentioned in the chapter. 
+This repository provides codes for the book chapter 'Statistical reinforcement learning and dynamic treatment regimes'. This material is aimed at providing primary tools for leaners who are not familiar with model-based approaches, offline RL methods we have mentioned in the chapter. 
 
 The construction of this material is mostly based on the following literature:
 
