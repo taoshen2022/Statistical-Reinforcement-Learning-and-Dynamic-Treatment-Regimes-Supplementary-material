@@ -1,4 +1,4 @@
-# Statistical-Reinforcement-Learning-and-Dynamic-Treatment-Regimes-Supplementary-material-
+# Statistical Reinforcement Learning and Dynamic Treatment Regimes Supplementary material
 
 ### Overview
 
